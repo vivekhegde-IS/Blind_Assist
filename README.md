@@ -53,4 +53,4 @@ This project is a real-time currency detection system designed to assist visuall
 Execute the main script using Python:
 
 ```bash
-python3 currency_assist_live_ov5647.py
+python3 blind_assist_ver1.py
